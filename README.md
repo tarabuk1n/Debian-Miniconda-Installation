@@ -1,2 +1,1 @@
-# Debian-Miniconda-Installation
-Debian Miniconda Installation via Docker
+Debian Miniconda(Python + PIP) installation via Docke.
