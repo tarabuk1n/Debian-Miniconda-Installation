@@ -1,1 +1,1 @@
-Debian Miniconda(Python + PIP) installation via Docke.
+Debian Miniconda(Python + PIP) installation via Docker.
