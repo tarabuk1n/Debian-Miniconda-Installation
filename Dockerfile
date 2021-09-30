@@ -18,4 +18,4 @@ RUN conda update -y conda && \
 COPY ./project/* ${WORKPATH}
 RUN pip install -r ${WORKPATH}/requirements.txt
 WORKDIR ${WORKPATH}
-CMD python main.py
+CMD ["python", "main.py"]
